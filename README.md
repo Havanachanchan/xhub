@@ -1,12 +1,11 @@
 <p align="center">
-  <a href="https://github.com/nschloe/xhub"><img alt="xhub" src="https://raw.githubusercontent.com/nschloe/xhub/gh-pages/logo-xhub.svg" width="50%"></a>
-  <p align="center">Extend GitHub pages with support for LaTeX, plotly, etc.</p>
+  <a href="https://github.com/nschloe/xhub"><img alt="xhub" src="https://raw.githubusercontent.com/nschloe/xhub/main/logo/logo.svg" width="50%"></a>
+  <p align="center">Extend GitHub pages with support for LaTeX, graphs, etc.</p>
 </p>
 
 [![Chrome Web Store version](https://img.shields.io/chrome-web-store/v/anidddebgkllnnnnjfkmjcaallemhjee)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 [![chrome users](https://img.shields.io/chrome-web-store/users/anidddebgkllnnnnjfkmjcaallemhjee?label=Chrome%20users&logo=google-chrome&logoColor=white&style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
-[![gh-actions](https://img.shields.io/github/workflow/status/nschloe/xhub/ci?style=flat-square)](https://github.com/nschloe/xhub/actions?query=workflow%3Aci)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![xhub](https://img.shields.io/badge/Rendered%20with-xhub-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
